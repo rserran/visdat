@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   customising-colour-palettes: customising-colour-palettes.html
   using_visdat: using_visdat.html
-last_built: 2023-02-04T17:44Z
+last_built: 2023-03-11T01:25Z
 urls:
   reference: http://ropensci.github.io/visdat/reference
   article: http://ropensci.github.io/visdat/articles
